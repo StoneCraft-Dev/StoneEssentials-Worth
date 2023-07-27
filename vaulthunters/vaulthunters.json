@@ -335,7 +335,7 @@
           "display_name": "Inscriber Calculation Press",
           "nbt": "",
           "hash": "",
-          "price": 2.0
+          "price": 150.0
         },
         {
           "id": "ae2:capacity_card",
@@ -1350,7 +1350,7 @@
           "display_name": "Inscriber Logic Press",
           "nbt": "",
           "hash": "",
-          "price": 120.0
+          "price": 150.0
         },
         {
           "id": "ae2:magenta_covered_cable",
@@ -2148,7 +2148,7 @@
           "display_name": "Inscriber Silicon Press",
           "nbt": "",
           "hash": "",
-          "price": 10.0
+          "price": 150.0
         },
         {
           "id": "ae2:singularity",
@@ -6256,14 +6256,14 @@
           "display_name": "Bifrost Pane",
           "nbt": "",
           "hash": "",
-          "price": 0.4
+          "price": 0.8
         },
         {
           "id": "botania:bifrost_perm",
           "display_name": "Bifrost Block",
           "nbt": "",
           "hash": "",
-          "price": 1.0
+          "price": 2.0
         },
         {
           "id": "botania:black_double_flower",
@@ -6459,49 +6459,49 @@
           "display_name": "Flask of Fallback (6)",
           "nbt": "{brewKey:\"botania:strength\"}",
           "hash": "10223df8a0bc5fd774c9cc405eebc948",
-          "price": 26.0
+          "price": 27.0
         },
         {
           "id": "botania:brew_flask",
           "display_name": "Flask of Fallback (6)",
           "nbt": "{brewKey:\"botania:fire_resistance\"}",
           "hash": "180bbb348b4788a344d7ffa8067d63db",
-          "price": 32.0
+          "price": 33.0
         },
         {
           "id": "botania:brew_flask",
           "display_name": "Flask of Fallback (6)",
           "nbt": "{brewKey:\"botania:haste\"}",
           "hash": "1c9bafc45e2ba341c466727f682c32ff",
-          "price": 18.5
+          "price": 19.5
         },
         {
           "id": "botania:brew_flask",
           "display_name": "Flask of Fallback (6)",
           "nbt": "{brewKey:\"botania:invisibility\"}",
           "hash": "262f7c1c45df0d80027398f2bfc99e16",
-          "price": 22.0
+          "price": 23.0
         },
         {
           "id": "botania:brew_flask",
           "display_name": "Flask of Fallback (6)",
           "nbt": "{brewKey:\"botania:night_vision\"}",
           "hash": "8a2b15ed95e603c6074a1920c30a5ac1",
-          "price": 68.5
+          "price": 69.5
         },
         {
           "id": "botania:brew_flask",
           "display_name": "Flask of Fallback (6)",
           "nbt": "{brewKey:\"botania:emptiness\"}",
           "hash": "9ace69aefae3c814f842bd74a1316027",
-          "price": 52.0
+          "price": 53.0
         },
         {
           "id": "botania:brew_flask",
           "display_name": "Flask of Fallback (6)",
           "nbt": "{brewKey:\"botania:jump_boost\"}",
           "hash": "a882f8f7ace0da4bf7ddfd91367e4dcc",
-          "price": 19.0
+          "price": 20.0
         },
         {
           "id": "botania:brew_flask",
@@ -6515,70 +6515,70 @@
           "display_name": "Flask of Fallback (6)",
           "nbt": "{brewKey:\"botania:water_breathing\"}",
           "hash": "dcfd23b6c9c5a8e9dbe5fda800adfb65",
-          "price": 25.0
+          "price": 26.0
         },
         {
           "id": "botania:brew_flask",
           "display_name": "Flask of Fallback (6)",
           "nbt": "{brewKey:\"botania:speed\"}",
           "hash": "dfd5da041dd013515d295a0c6e5888d7",
-          "price": 23.0
+          "price": 24.0
         },
         {
           "id": "botania:brew_flask",
           "display_name": "Flask of Fallback (6)",
           "nbt": "{brewKey:\"botania:allure\"}",
           "hash": "f93fb9de911dbe0b8216b1a32c295b15",
-          "price": 70.5
+          "price": 71.5
         },
         {
           "id": "botania:brew_vial",
           "display_name": "Vial of Fallback (4)",
           "nbt": "{brewKey:\"botania:strength\"}",
           "hash": "10223df8a0bc5fd774c9cc405eebc948",
-          "price": 26.0
+          "price": 27.0
         },
         {
           "id": "botania:brew_vial",
           "display_name": "Vial of Fallback (4)",
           "nbt": "{brewKey:\"botania:fire_resistance\"}",
           "hash": "180bbb348b4788a344d7ffa8067d63db",
-          "price": 32.0
+          "price": 33.0
         },
         {
           "id": "botania:brew_vial",
           "display_name": "Vial of Fallback (4)",
           "nbt": "{brewKey:\"botania:haste\"}",
           "hash": "1c9bafc45e2ba341c466727f682c32ff",
-          "price": 18.5
+          "price": 19.5
         },
         {
           "id": "botania:brew_vial",
           "display_name": "Vial of Fallback (4)",
           "nbt": "{brewKey:\"botania:invisibility\"}",
           "hash": "262f7c1c45df0d80027398f2bfc99e16",
-          "price": 22.0
+          "price": 23.0
         },
         {
           "id": "botania:brew_vial",
           "display_name": "Vial of Fallback (4)",
           "nbt": "{brewKey:\"botania:night_vision\"}",
           "hash": "8a2b15ed95e603c6074a1920c30a5ac1",
-          "price": 68.5
+          "price": 69.5
         },
         {
           "id": "botania:brew_vial",
           "display_name": "Vial of Fallback (4)",
           "nbt": "{brewKey:\"botania:emptiness\"}",
           "hash": "9ace69aefae3c814f842bd74a1316027",
-          "price": 52.0
+          "price": 53.0
         },
         {
           "id": "botania:brew_vial",
           "display_name": "Vial of Fallback (4)",
           "nbt": "{brewKey:\"botania:jump_boost\"}",
           "hash": "a882f8f7ace0da4bf7ddfd91367e4dcc",
-          "price": 19.0
+          "price": 20.0
         },
         {
           "id": "botania:brew_vial",
@@ -6592,21 +6592,21 @@
           "display_name": "Vial of Fallback (4)",
           "nbt": "{brewKey:\"botania:water_breathing\"}",
           "hash": "dcfd23b6c9c5a8e9dbe5fda800adfb65",
-          "price": 25.0
+          "price": 26.0
         },
         {
           "id": "botania:brew_vial",
           "display_name": "Vial of Fallback (4)",
           "nbt": "{brewKey:\"botania:speed\"}",
           "hash": "dfd5da041dd013515d295a0c6e5888d7",
-          "price": 23.0
+          "price": 24.0
         },
         {
           "id": "botania:brew_vial",
           "display_name": "Vial of Fallback (4)",
           "nbt": "{brewKey:\"botania:allure\"}",
           "hash": "f93fb9de911dbe0b8216b1a32c295b15",
-          "price": 70.5
+          "price": 71.5
         },
         {
           "id": "botania:brown_double_flower",
@@ -6879,7 +6879,7 @@
           "display_name": "Corporea Crystal Cube",
           "nbt": "",
           "hash": "",
-          "price": 1240.0
+          "price": 1245.0
         },
         {
           "id": "botania:corporea_funnel",
@@ -7565,14 +7565,14 @@
           "display_name": "Alfglass",
           "nbt": "",
           "hash": "",
-          "price": 1.0
+          "price": 2.0
         },
         {
           "id": "botania:elf_glass_pane",
           "display_name": "Alfglass Pane",
           "nbt": "",
           "hash": "",
-          "price": 0.4
+          "price": 0.8
         },
         {
           "id": "botania:elf_quartz",
@@ -7663,7 +7663,7 @@
           "display_name": "Fabulous Mana Pool",
           "nbt": "",
           "hash": "",
-          "price": 306.0
+          "price": 311.0
         },
         {
           "id": "botania:fallen_kanade",
@@ -7698,7 +7698,7 @@
           "display_name": "Alfglass Flask",
           "nbt": "",
           "hash": "",
-          "price": 1.0
+          "price": 2.0
         },
         {
           "id": "botania:floating_agricarnation",
@@ -8377,7 +8377,7 @@
           "display_name": "Hovering Hourglass",
           "nbt": "",
           "hash": "",
-          "price": 247.0
+          "price": 249.0
         },
         {
           "id": "botania:hyacidus",
@@ -8608,7 +8608,7 @@
           "display_name": "Mana Lens: Flare",
           "nbt": "",
           "hash": "",
-          "price": 407.0
+          "price": 408.0
         },
         {
           "id": "botania:lens_gravity",
@@ -9196,14 +9196,14 @@
           "display_name": "Managlass",
           "nbt": "",
           "hash": "",
-          "price": 1.0
+          "price": 2.0
         },
         {
           "id": "botania:mana_glass_pane",
           "display_name": "Managlass Pane",
           "nbt": "",
           "hash": "",
-          "price": 0.4
+          "price": 0.8
         },
         {
           "id": "botania:mana_mirror",
@@ -10015,7 +10015,7 @@
           "display_name": "Manaseer Monocle",
           "nbt": "",
           "hash": "",
-          "price": 42.5
+          "price": 43.5
         },
         {
           "id": "botania:mossy_dreamwood_planks",
@@ -10834,42 +10834,42 @@
           "display_name": "Shimmerrock",
           "nbt": "",
           "hash": "",
-          "price": 2.0
+          "price": 3.0
         },
         {
           "id": "botania:shimmerrock_slab",
           "display_name": "Shimmerrock Slab",
           "nbt": "",
           "hash": "",
-          "price": 1.0
+          "price": 1.5
         },
         {
           "id": "botania:shimmerrock_stairs",
           "display_name": "Shimmerrock Stairs",
           "nbt": "",
           "hash": "",
-          "price": 3.0
+          "price": 4.5
         },
         {
           "id": "botania:shimmerwood_planks",
           "display_name": "Shimmerwood Planks",
           "nbt": "",
           "hash": "",
-          "price": 2.0
+          "price": 3.0
         },
         {
           "id": "botania:shimmerwood_planks_slab",
           "display_name": "Shimmerwood Plank Slab",
           "nbt": "",
           "hash": "",
-          "price": 1.0
+          "price": 1.5
         },
         {
           "id": "botania:shimmerwood_planks_stairs",
           "display_name": "Shimmerwood Plank Stairs",
           "nbt": "",
           "hash": "",
-          "price": 3.0
+          "price": 4.5
         },
         {
           "id": "botania:shulk_me_not",
@@ -11317,7 +11317,7 @@
           "display_name": "Managlass Vial",
           "nbt": "",
           "hash": "",
-          "price": 1.0
+          "price": 2.0
         },
         {
           "id": "botania:vinculotus",
@@ -19795,6 +19795,13 @@
           "nbt": "",
           "hash": "",
           "price": 325.5
+        },
+        {
+          "id": "create:large_water_wheel",
+          "display_name": "Large Water Wheel",
+          "nbt": "",
+          "hash": "",
+          "price": 7200.0
         },
         {
           "id": "create:layered_andesite",
@@ -55927,7 +55934,7 @@
           "display_name": "Advanced Deposit Upgrade",
           "nbt": "",
           "hash": "",
-          "price": 28500.0
+          "price": 25500.0
         },
         {
           "id": "sophisticatedbackpacks:advanced_feeding_upgrade",
@@ -55962,154 +55969,154 @@
           "display_name": "Advanced Restock Upgrade",
           "nbt": "",
           "hash": "",
-          "price": 28500.0
+          "price": 25500.0
         },
         {
           "id": "sophisticatedbackpacks:advanced_void_upgrade",
           "display_name": "Advanced Void Upgrade",
           "nbt": "",
           "hash": "",
-          "price": 26000.0
+          "price": 26500.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "",
           "hash": "",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:6192150,clothColor:6192150}",
           "hash": "21bed26ec0d40375741b61a0f74b5f66",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:16383998,clothColor:16383998}",
           "hash": "261a79a91f54f67a417f4fcdfe36ae8a",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:16701501,clothColor:16701501}",
           "hash": "2ba476b85863446e76d2cadfcc402a65",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:1908001,clothColor:1908001}",
           "hash": "31c63bd8eb76bf9434dd41a717e08417",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:15961002,clothColor:15961002}",
           "hash": "342982b943904f4bd9263c127d8b086f",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:3949738,clothColor:3949738}",
           "hash": "34f6e295584fd016fb353ccb13b9cb08",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:10329495,clothColor:10329495}",
           "hash": "5d02b438a194e2e2b1e8643387156899",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:16351261,clothColor:16351261}",
           "hash": "69f41dde165793635afe825e4e181fb5",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:13061821,clothColor:13061821}",
           "hash": "79925371579cb33a01989ed3304f51a3",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:1481884,clothColor:1481884}",
           "hash": "8ace60b12247decb11821b22633c7742",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:8439583,clothColor:8439583}",
           "hash": "937d0daab1947cd4f19704be8f02228d",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:8991416,clothColor:8991416}",
           "hash": "b152428e9214ef8e827abd012186f0f6",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:3847130,clothColor:3847130}",
           "hash": "b96604f1aff04cdb009ee8d0af856f79",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:8606770,clothColor:8606770}",
           "hash": "dedb7d43bb2df69c61c76df28388928d",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:2895973,clothColor:12439408}",
           "hash": "e447cce5cff5450536ef7da27f34d18f",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:11546150,clothColor:11546150}",
           "hash": "e61d65f8bf75430b635a83ee98d791a3",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:backpack",
           "display_name": "Pouch",
           "nbt": "{borderColor:4673362,clothColor:4673362}",
           "hash": "fd34a7ff2506b2ceec2829b55e48214a",
-          "price": 1860.0
+          "price": 1350.0
         },
         {
           "id": "sophisticatedbackpacks:deposit_upgrade",
           "display_name": "Deposit Upgrade",
           "nbt": "",
           "hash": "",
-          "price": 26500.0
+          "price": 23500.0
         },
         {
           "id": "sophisticatedbackpacks:diamond_backpack",
           "display_name": "Small Backpack",
           "nbt": "",
           "hash": "",
-          "price": 27000.0
+          "price": 24000.0
         },
         {
           "id": "sophisticatedbackpacks:feeding_upgrade",
@@ -56130,21 +56137,21 @@
           "display_name": "Loot Belt",
           "nbt": "",
           "hash": "",
-          "price": 18300.0
+          "price": 15400.0
         },
         {
           "id": "sophisticatedbackpacks:iron_backpack",
           "display_name": "Double Pouch",
           "nbt": "",
           "hash": "",
-          "price": 5900.0
+          "price": 4550.0
         },
         {
           "id": "sophisticatedbackpacks:netherite_backpack",
           "display_name": "Big Backpack",
           "nbt": "",
           "hash": "",
-          "price": 74000.0
+          "price": 71000.0
         },
         {
           "id": "sophisticatedbackpacks:pickup_upgrade",
@@ -56165,7 +56172,7 @@
           "display_name": "Restock Upgrade",
           "nbt": "",
           "hash": "",
-          "price": 26500.0
+          "price": 23500.0
         },
         {
           "id": "sophisticatedbackpacks:stack_upgrade_tier_1",
@@ -56193,7 +56200,7 @@
           "display_name": "Stack Upgrade Tier 4",
           "nbt": "",
           "hash": "",
-          "price": 492000.0
+          "price": 80000.0
         },
         {
           "id": "sophisticatedbackpacks:upgrade_base",
@@ -56207,7 +56214,7 @@
           "display_name": "Void Upgrade",
           "nbt": "",
           "hash": "",
-          "price": 13600.0
+          "price": 14300.0
         }
       ]
     },
@@ -60855,56 +60862,56 @@
           "display_name": "Burger Bun",
           "nbt": "",
           "hash": "",
-          "price": 150.0
+          "price": 50.0
         },
         {
           "id": "the_vault:burger_cheese",
           "display_name": "Burger Cheese",
           "nbt": "",
           "hash": "",
-          "price": 150.0
+          "price": 100.0
         },
         {
           "id": "the_vault:burger_chili",
           "display_name": "Burger Chili",
           "nbt": "",
           "hash": "",
-          "price": 150.0
+          "price": 1000.0
         },
         {
           "id": "the_vault:burger_lettuce",
           "display_name": "Burger Lettuce",
           "nbt": "",
           "hash": "",
-          "price": 150.0
+          "price": 400.0
         },
         {
           "id": "the_vault:burger_patty",
           "display_name": "Burger Patty",
           "nbt": "",
           "hash": "",
-          "price": 150.0
+          "price": 50.0
         },
         {
           "id": "the_vault:burger_pickles",
           "display_name": "Burger Pickles",
           "nbt": "",
           "hash": "",
-          "price": 150.0
+          "price": 400.0
         },
         {
           "id": "the_vault:burger_sauce",
           "display_name": "Burger Sauce",
           "nbt": "",
           "hash": "",
-          "price": 150.0
+          "price": 400.0
         },
         {
           "id": "the_vault:burger_tomato",
           "display_name": "Burger Tomato",
           "nbt": "",
           "hash": "",
-          "price": 150.0
+          "price": 200.0
         },
         {
           "id": "the_vault:carbon",
@@ -60967,14 +60974,14 @@
           "display_name": "Cheese Burger",
           "nbt": "",
           "hash": "",
-          "price": 450.0
+          "price": 200.0
         },
         {
           "id": "the_vault:cheese_burger_feast",
           "display_name": "Cheese Burger Feast",
           "nbt": "",
           "hash": "",
-          "price": 1050.0
+          "price": 1600.0
         },
         {
           "id": "the_vault:chestplate",
@@ -61268,7 +61275,7 @@
           "display_name": "Crispy Deluxe Cheese Burger",
           "nbt": "",
           "hash": "",
-          "price": 750.0
+          "price": 800.0
         },
         {
           "id": "the_vault:crystal_seal_architect",
@@ -61317,7 +61324,7 @@
           "display_name": "Deluxe Cheese Burger",
           "nbt": "",
           "hash": "",
-          "price": 600.0
+          "price": 400.0
         },
         {
           "id": "the_vault:demagnetizer",
@@ -61338,7 +61345,7 @@
           "display_name": "Double Cheese Burger",
           "nbt": "",
           "hash": "",
-          "price": 600.0
+          "price": 250.0
         },
         {
           "id": "the_vault:dreamstone",
@@ -62892,7 +62899,7 @@
           "display_name": "Hamburger",
           "nbt": "",
           "hash": "",
-          "price": 300.0
+          "price": 100.0
         },
         {
           "id": "the_vault:poisonous_mushroom",
@@ -62990,7 +62997,7 @@
           "display_name": "Salty Deluxe Cheese Burger",
           "nbt": "",
           "hash": "",
-          "price": 750.0
+          "price": 1200.0
         },
         {
           "id": "the_vault:scavenger_broken_pottery",
@@ -63263,7 +63270,7 @@
           "display_name": "Spicy Hearty Burger",
           "nbt": "",
           "hash": "",
-          "price": 1200.0
+          "price": 2600.0
         },
         {
           "id": "the_vault:spirit_extractor",
@@ -63319,14 +63326,14 @@
           "display_name": "Treasure Chest",
           "nbt": "",
           "hash": "",
-          "price": 140.0
+          "price": 1120.0
         },
         {
           "id": "the_vault:treasure_chest_scroll",
           "display_name": "Treasure Chest Scroll",
           "nbt": "",
           "hash": "",
-          "price": 20.0
+          "price": 1000.0
         },
         {
           "id": "the_vault:trinket",
@@ -63578,7 +63585,7 @@
           "display_name": "Vault Bronze",
           "nbt": "",
           "hash": "",
-          "price": 15.0
+          "price": 5.0
         },
         {
           "id": "the_vault:vault_catalyst",
@@ -63586,6 +63593,13 @@
           "nbt": "",
           "hash": "",
           "price": 900.0
+        },
+        {
+          "id": "the_vault:vault_catalyst_chaos",
+          "display_name": "Chaos Vault Catalyst",
+          "nbt": "",
+          "hash": "",
+          "price": 1200.0
         },
         {
           "id": "the_vault:vault_catalyst_fragment",
@@ -63641,49 +63655,56 @@
           "display_name": "Boss Crate",
           "nbt": "",
           "hash": "",
-          "price": 200.0
+          "price": 500.0
         },
         {
           "id": "the_vault:vault_crate_arena",
           "display_name": "Arena Crate",
           "nbt": "",
           "hash": "",
-          "price": 200.0
+          "price": 500.0
         },
         {
           "id": "the_vault:vault_crate_bounty",
           "display_name": "Bounty Crate",
           "nbt": "",
           "hash": "",
-          "price": 200.0
+          "price": 500.0
         },
         {
           "id": "the_vault:vault_crate_cake",
           "display_name": "Crake",
           "nbt": "",
           "hash": "",
-          "price": 200.0
+          "price": 500.0
         },
         {
           "id": "the_vault:vault_crate_champion",
           "display_name": "Champion Crate",
           "nbt": "",
           "hash": "",
-          "price": 200.0
+          "price": 500.0
+        },
+        {
+          "id": "the_vault:vault_crate_elixir",
+          "display_name": "Elixir Crate",
+          "nbt": "",
+          "hash": "",
+          "price": 500.0
         },
         {
           "id": "the_vault:vault_crate_monolith",
           "display_name": "Monolith Crate",
           "nbt": "",
           "hash": "",
-          "price": 200.0
+          "price": 500.0
         },
         {
           "id": "the_vault:vault_crate_scavenger",
           "display_name": "Scavenger Crate",
           "nbt": "",
           "hash": "",
-          "price": 200.0
+          "price": 500.0
         },
         {
           "id": "the_vault:vault_diamond",
@@ -63746,7 +63767,7 @@
           "display_name": "Vault Gold",
           "nbt": "",
           "hash": "",
-          "price": 1215.0
+          "price": 405.0
         },
         {
           "id": "the_vault:vault_ingot",
@@ -63802,14 +63823,14 @@
           "display_name": "Vault Plating",
           "nbt": "",
           "hash": "",
-          "price": 100.0
+          "price": 10.0
         },
         {
           "id": "the_vault:vault_platinum",
           "display_name": "Vault Platinum",
           "nbt": "",
           "hash": "",
-          "price": 10900.0
+          "price": 3645.0
         },
         {
           "id": "the_vault:vault_recycler",
@@ -64117,7 +64138,7 @@
           "display_name": "Vault Silver",
           "nbt": "",
           "hash": "",
-          "price": 135.0
+          "price": 45.0
         },
         {
           "id": "the_vault:vault_stone",
